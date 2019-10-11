@@ -1,0 +1,20 @@
+.products {
+  height: 92vh;
+  width: 100%;
+  padding-bottom: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  overflow-x: scroll;
+}
+
+.products img {
+  height: 13vh;
+  width: 25vw;
+}
+
+.back-button {
+  font-size: 1.4em;
+  background-color: blueviolet;
+}
